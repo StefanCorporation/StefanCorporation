@@ -1,25 +1,56 @@
-<h1 align="center">Hi 👋, I'm Stefan Ashugyan</h1>
-<h3 align="center">Web Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stefancorporation&label=Profile%20views&color=0e75b6&style=flat" alt="stefancorporation" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefancorporation" alt="stefancorporation" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/stephen" target="blank"><img src="https://img.shields.io/twitter/follow/stephen?logo=twitter&style=for-the-badge" alt="stephen" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/stephen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stephen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stefan ashugyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefan ashugyan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/stefan hawkins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stefan hawkins" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Добро%20пожаловать!&fontSize=40&fontAlign=50&fontAlignY=40&animation=fadeIn"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ваш_профиль"><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://github.com/ваш_профиль"><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" alt="GitHub"></a>
+  <a href="https://www.instagram.com/ваш_профиль"><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" alt="Instagram"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefancorporation&show_icons=true&locale=en&layout=compact" alt="stefancorporation" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefancorporation&show_icons=true&locale=en" alt="stefancorporation" /></p>
+<h2 align="center">✨ Немного обо мне ✨</h2>
+<p align="center">
+  Привет! Меня зовут <b>Ваше Имя</b>. Я <i>веб-разработчик</i>, увлекающийся созданием современных и стильных веб-приложений.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefancorporation&" alt="stefancorporation" /></p>
+---
 
+<h2 align="center">🚀 Навыки и технологии</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+</p>
+
+---
+
+<h2 align="center">📈 GitHub статистика</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ваш_профиль&show_icons=true&theme=radical" alt="GitHub stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ваш_профиль&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+<h2 align="center">🎉 Змейка активности</h2>
+<p align="center">
+  <img src="https://github.com/ваш_профиль/ваш_профиль/blob/output/github-contribution-grid-snake.svg" alt="Змейка активности">
+</p>
+
+---
+
+<h2 align="center">🌟 Проекты</h2>
+<ul>
+  <li><b><a href="https://github.com/ваш_проект_1">Проект 1</a></b>: Описание проекта, например, "Сайт для интернет-магазина".</li>
+  <li><b><a href="https://github.com/ваш_проект_2">Проект 2</a></b>: Описание проекта, например, "Приложение для управления задачами".</li>
+</ul>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
