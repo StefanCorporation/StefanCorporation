@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center">📈 GitHub статистика</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StefanCorporation&show_icons=true&theme=radical" alt="GitHub stats">
   <br>
