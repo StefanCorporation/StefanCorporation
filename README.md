@@ -46,21 +46,12 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefanCorporation&theme=radical" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-languages.vercel.app/api?username=StefanCorporation&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanCorporation&layout=compact&theme=radical" alt="Most used languages">
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github.com/StefanCorporation/StefanCorporation/blob/output/github-contribution-grid-snake.svg" alt="...">
-</p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefancorporation&show_icons=true&locale=en&layout=compact" alt="stefancorporation" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefancorporation&show_icons=true&locale=en" alt="stefancorporation" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefancorporation&" alt="stefancorporation" /></p>
 
 ---
 
